@@ -61,8 +61,10 @@
     font-weight: 700;
 }
 #cart{
-    size: 1px;
+    width: 70px;
+    height: 40px;
     margin-left: -130px;
+    margin-top: 14px;
 }
 .options{
     display: flex;
@@ -127,19 +129,44 @@
     margin-top: 10px;
 }
 .one{
+    
     background-color: white;
     margin-top: -450px;
     color: white;
+    justify-content: space-evenly;
     
 }
 #up{
    font-size: large;
    font-weight: 800;
    margin-left: 100px;
+   color: black;
 }
 .two{
+    
     background-color: white;
-   
     color: white;
 }
+#down{
+    font-size: large;
+    font-weight: 800;
+    margin-left: 100px;
+    color: black;
 
+}
+#span13{
+    padding: 10px;
+    font-size: large;
+}
+#span14{
+    padding: 10px;
+    font-size: large;
+}
+#span15{
+    padding: 10px;
+    font-size: large;
+}
+#span16{
+    padding: 10px;
+    font-size: large;
+}
